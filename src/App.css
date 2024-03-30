@@ -1,0 +1,28 @@
+.todo-container {
+  background-color: #3498db; /* Blue background color */
+  color: #fff; /* White text color */
+  padding: 20px;
+  border-radius: 5px;
+  width: 400px;
+  margin: 0 auto; /* Center the container horizontally */
+  text-align: center; /* Center text horizontally */
+}
+
+.todo-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-container li {
+  margin-bottom: 10px;
+}
+
+.center-text {
+  display: flex;
+  justify-content: center; /* Center text horizontally */
+}
+
+.center-input {
+  width: 200px;
+  margin: 0 auto; /* Center input horizontally */
+}
